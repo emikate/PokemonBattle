@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment0.text=\r\n\ Pokemon\ Class\ Constructor\r\n\r\n\ @author\ emily\r\n\ @version\ 4/22/2022\r\n
+comment1.params=
+comment1.target=Pokemon()
+comment2.params=n\ t\ hp\ sp\ a
+comment2.target=Pokemon(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Gets\ name\ of\ pokemon.\r\n\r\n\ @param\ \r\n\ @return\ name\r\n
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment4.text=\r\n\ Gets\ type\ of\ pokemon.\r\n\r\n\ @param\ \ \r\n\ @return\ type\r\n
+comment5.params=
+comment5.target=int\ getHP()
+comment5.text=\r\n\ Gets\ pokemon's\ hp.\r\n\r\n\ @param\ \r\n\ @return\ hp\ \#\r\n
+comment6.params=
+comment6.target=int\ getSpeed()
+comment6.text=\r\n\ Gets\ speed\ of\ pokemon.\r\n\r\n\ @param\ \ \r\n\ @return\ speed\ \#\r\n
+comment7.params=
+comment7.target=int\ getAttackPts()
+comment7.text=\r\n\ Get\ damage\ of\ attack.\r\n\r\n\ @param\ \ \r\n\ @return\ \ damage\ \#\r\n
+numComments=8
